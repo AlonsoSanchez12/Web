@@ -1,0 +1,34 @@
+{
+"Contacto": [
+{
+"id": 1,
+"Nombre": "Alonso",
+"Apellido": "Sanchez",
+"Telefono": "4761575558"
+},
+{
+"id": 2,
+"Nombre": "Juanjis",
+"Apellido": "Sanchez",
+"Telefono": "476155178"
+},
+{
+"id": 3,
+"Nombre": "Jonathan",
+"Apellido": "Valadez",
+"Telefono": "4762584557"
+},
+{
+"id": 4,
+"Nombre": "Turin",
+"Apellido": "Lopez",
+"Telefono": "4764575855"
+},
+{
+"id": 5,
+"Nombre": "Segurilla",
+"Apellido": "Segura",
+"Telefono": "4772416605"
+},
+]
+}
